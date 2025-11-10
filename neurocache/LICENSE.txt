@@ -1,1 +1,10 @@
+Business Source License (Modified)
+
+NeuroCache © 2025 Nicole Assenza
+
+Use, view, and modification of this repository are permitted for research,
+educational, and personal projects. Commercial deployment, resale, or integration
+into proprietary systems requires a separate commercial license from the author.
+
+The production NeuroCache Core implementation is not included in this repository.
 
