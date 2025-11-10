@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/Neuro-Cache/NeuroCache/blob/main/neurocache_banner.png" alt="NeuroCache Banner" width="90%">
+  <img src="neurocache_banner.png?raw=1" alt="NeuroCache Banner" width="90%">
 </p>
+
 
 <h1 align="center">🧠 NeuroCache</h1>
 <h3 align="center">A Brain-Inspired Adaptive Caching Framework for Modern Compute Systems</h3>
