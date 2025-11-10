@@ -1,1 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+dist_obf/
+*.whl
+core/
+neurocache-core/
 
