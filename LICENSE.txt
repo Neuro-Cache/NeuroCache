@@ -1,1 +1,18 @@
+Hi [Name],
+
+Thank you for your interest in NeuroCache.
+
+The commercial license includes:
+• Access to the compiled and obfuscated NeuroCache Core wheel (optimized for GPU and large-scale environments)  
+• One license key per deployment  
+• 30 days of installation and integration support  
+
+Pricing starts at **$499 per deployment** for small organizations and research labs.  
+Enterprise pricing and academic discounts are available upon request.
+
+Once confirmed, I’ll send a signed license file and a personalized download link for your build.
+
+Best regards,  
+Nicole Assenza  
+nicole.assenza@outlook.com
 
