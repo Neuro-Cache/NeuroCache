@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://github.com/Neuro-Cache/NeuroCache/blob/main/neurocache_banner.png" alt="NeuroCache Banner" width="90%">
+</p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/Neuro-Cache/branding/main/banner.png" alt="NeuroCache Banner" width="90%">
 </p>
 
